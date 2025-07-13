@@ -1,13 +1,9 @@
  # List of all Python dependencies
-
-
 streamlit
 pypdf
 google-generativeai
 numpy
-scikit-learn # For cosine_similarity (comes with scikit-learn)
+scikit-learn 
 python-dotenv
 langchain-text-splitters
 
-# To install all dependencies, run:
-pip install -r requirements.txt

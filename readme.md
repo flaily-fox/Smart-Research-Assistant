@@ -55,21 +55,6 @@ The application's architecture is designed for clarity, modularity, and efficien
     * **Intelligent Chunking:** Employs `langchain-text-splitters` (`RecursiveCharacterTextSplitter`) to divide documents into semantically coherent chunks.
     * **Vector Search:** `numpy` and `scikit-learn`'s `cosine_similarity` are used to efficiently retrieve the most relevant chunks.
 * **API Management:** `python-dotenv` securely loads the `GEMINI_API_KEY`.
-
-**Organized Source Code Structure:**
-smart_research_assistant/
-├── .env                        # Securely stores the GEMINI_API_KEY
-├── app.py                      # Main Streamlit application file (UI orchestration, session state management)
-├── core/                       # Contains core business logic functions
-│   ├── init.py             # Makes 'core' a Python package
-│   ├── document_processor.py   # Handles document loading, text extraction, chunking, and embedding generation
-│   └── llm_functions.py        # Manages all interactions with the Gemini LLM (summaries, Q&A, challenge questions, evaluations)
-├── utils/                      # (Placeholder for future utility functions)
-│   └── init.py
-└── requirements.txt            # Lists all Python dependencies for easy environment setup
-
-This structure ensures a clear separation of concerns, making the codebase highly maintainable, testable, and scalable for future enhancements.
-
 ---
 
 ## 🚀 Quick Start Guide
@@ -84,10 +69,9 @@ Follow these steps to set up and run the Smart Research Assistant on your local 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL_HERE]
+    git clone [https://github.com/flaily-fox/Smart-Research-Assistant.git]
     cd smart_research_assistant
     ```
-    *(Replace `[YOUR_REPOSITORY_URL_HERE]` with the actual URL where your code is hosted.)*
 
 2.  **Create and activate a virtual environment:**
     ```bash

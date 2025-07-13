@@ -1,10 +1,7 @@
 # 📚 Smart Research Assistant for EZ
 
 ## An AI-Powered Document Summarization & Interaction Tool
-
-**Submission for: [Your Assignment Name/Course Name - e.g., "GenAI Internship Task"]**
-**Deadline: Submitted within 7 days from 2025-07-11**
-
+Link:- https://adyantikapdfsummarizer.streamlit.app
 ---
 
 ## 🎯 Objective & Problem Addressed

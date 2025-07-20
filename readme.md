@@ -1,4 +1,4 @@
-# 📚 Smart Research Assistant for EZ
+# 📚 Smart Research Assistant 
 
 ## An AI-Powered Document Summarization & Interaction Tool
 Link:- https://adyantikapdfsummarizer.streamlit.app
@@ -6,7 +6,7 @@ Link:- https://adyantikapdfsummarizer.streamlit.app
 
 ## 🎯 Objective & Problem Addressed
 
-This project, the **Smart Research Assistant**, was developed in response to the task of creating an AI-powered tool to tackle the time-consuming challenge of digesting large documents like research papers, legal files, or technical manuals. The core objective, set by EZ, was to build an assistant that not only summarizes content but also enables intelligent, justified interaction with the document's information.
+This project, the **Smart Research Assistant**, named Adyantik, was developed in response to the task of creating an AI-powered tool to tackle the time-consuming challenge of digesting large documents like research papers, legal files, or technical manuals. The core objective, was to build an assistant that not only summarizes content but also enables intelligent, justified interaction with the document's information.
 
 ---
 
